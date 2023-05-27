@@ -36,8 +36,8 @@ div.gb_td,header.gb_Ia.gb_ab.gb_Zd.gb_rd.gb_kd.gb_jd.gb_ud,div.gb_qd.gb_Fd.gb_wd
   display: none;
 }
 div.LYkI7,div.Qy5T6b.O3LMFb.QduVPe {
-  /*hide toolbar of editor*/
-  display: none;
+  /*hide toolbar of editor
+  display: none;*/
 }
 div.vW7mGd.XM6wle.mkDbPd.M3Aaxc.O3LMFb.Y3eu4c {
   /*hide sidebar*/
@@ -51,5 +51,5 @@ div.y3IDJd.Fx3kmc.fmzcZd {
 /*EDITOR: change width of editor*/
 div.a89Sje {
     max-width: 1920px;
-    width: 96%;
+    width: 60%;
 }
