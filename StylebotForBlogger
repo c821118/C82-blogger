@@ -31,7 +31,7 @@ div.CodeMirror-gutter.CodeMirror-linenumbers,div.CodeMirror-gutter.CodeMirror-fo
 }
 
 /*only DISPLAY editor*/
-div.gb_td,header.gb_Ia.gb_ab.gb_Zd.gb_rd.gb_kd.gb_jd.gb_ud {
+div.gb_td,header.gb_Ia.gb_ab.gb_Zd.gb_rd.gb_kd.gb_jd.gb_ud,div.gb_qd.gb_Fd.gb_wd {
   /*hide header*/
   display: none;
 }
