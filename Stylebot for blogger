@@ -1,0 +1,55 @@
+/*TITTLE*/
+input.whsOnd.zHQkBf {
+  color: #efefef;
+}
+
+/*EDITOR*/
+div.Wdqgzf,div.LYkI7,div.gb_qd.gb_Fd.gb_wd,div.a89Sje.O3LMFb.sDsUgb,div.P8hSs.pEg5pc.CDANdb.ZsY9oc,div.rFrNMe.rzHh9c.l8Ahzd.zKHdkd.sdJrJc.CDELXb,div.znzEhe,div.FUKHhf,div.Ovbbsc,div.rQS16b,span.w4txWc.oJeWuf,div.vDfECb {
+  background-color: #434343;
+}
+iframe.ZW3ZFc{
+  background-color: #666666;
+}
+textarea.KHxj8b.tL9Q4c,span.MUhG4e.OGjyyf,span.DPvwYc.GHpiyd,div.rs14Ze,span.vRMGwf.oJeWuf,div.NWNPsc.q6mdaf,div.gweRDb.g0RVJ,div.clmEye,div.NWNPsc.dLSeoc {
+  color: #888888;
+}
+/*POPUP:insert link*/
+span.PbnGhe.oJeWuf.fb0g6,div.R6Lfte.tOrNgd.qRUolc,div.XfpsVe.J9fJmf {
+  background-color: #434343;
+}
+
+/*HTML editor*/
+div.oqVKcb {
+  background-color: #434343;
+}
+div.CodeMirror-scroll {
+  background-color: #000000;
+  color: #efefef;
+}
+div.CodeMirror-gutter.CodeMirror-linenumbers,div.CodeMirror-gutter.CodeMirror-foldgutter {
+  background-color: #434343;
+}
+
+/*only DISPLAY editor*/
+div.gb_td,header.gb_Ia.gb_ab.gb_Zd.gb_rd.gb_kd.gb_jd.gb_ud {
+  /*hide header*/
+  display: none;
+}
+div.LYkI7,div.Qy5T6b.O3LMFb.QduVPe {
+  /*hide toolbar of editor*/
+  display: none;
+}
+div.vW7mGd.XM6wle.mkDbPd.M3Aaxc.O3LMFb.Y3eu4c {
+  /*hide sidebar*/
+  display: none;
+}
+div.y3IDJd.Fx3kmc.fmzcZd {
+  /*editor*/
+  padding: 0px;
+}
+
+/*EDITOR: change width of editor*/
+div.a89Sje {
+    max-width: 1920px;
+    width: 96%;
+}
